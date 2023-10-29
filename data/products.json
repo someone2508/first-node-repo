@@ -1,0 +1,20 @@
+[
+  {
+    "name": "mouse",
+    "company": "apple",
+    "price": "20000",
+    "id": 1
+  },
+  {
+    "name": "monitor",
+    "company": "lenovo",
+    "price": "50000",
+    "id": 2
+  },
+  {
+    "name": "desk",
+    "company": "abcd",
+    "price": "80000",
+    "id": 3
+  }
+]
